@@ -2,7 +2,7 @@ import alpha_vantage.timeseries as ts
 import pandas as pd
 import numpy as np
 from datetime import datetime
-from keys import alpha_vantage_api_key
+from current.BlackScholesPricing.keys import alpha_vantage_api_key
 
 class StockProducer:
     def __init__(self, alpha_vantage_api_key):

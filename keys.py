@@ -1,0 +1,1 @@
+alpha_vantage_api_key = "70JB38QMGGNNYJMD" # public api key
